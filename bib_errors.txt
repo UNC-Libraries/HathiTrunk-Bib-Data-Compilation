@@ -1,0 +1,9 @@
+b10136125	This bib record's 008 does not have 40 byte positions. Report to cataloging staff to correct 008.
+b10000203	This bib record's 008 does not have 40 byte positions. Report to cataloging staff to correct 008.
+b1341446x	This bib record's 008 does not have 40 byte positions. Report to cataloging staff to correct 008.
+b1341446x	This bib does not contain an 035 field with an OCLC number. Report to cataloging staff to have an OCLC number added in an 035 field.
+b38926799	This bib record's 008 does not have 40 byte positions. Report to cataloging staff to correct 008.
+b22552972	This bib record's 008 does not have 40 byte positions. Report to cataloging staff to correct 008.
+b22552972	This bib does not contain an 035 field with an OCLC number. Report to cataloging staff to have an OCLC number added in an 035 field.
+b47417493	This bib record's 008 does not have 40 byte positions. Report to cataloging staff to correct 008.
+b47417493	This bib does not contain an 035 field with an OCLC number. Report to cataloging staff to have an OCLC number added in an 035 field.

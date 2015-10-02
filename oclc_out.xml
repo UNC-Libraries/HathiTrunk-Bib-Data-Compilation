@@ -1,0 +1,449 @@
+<?xml version='1.0'?>
+<collection xmlns='http://www.loc.gov/MARC21/slim' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd'>
+  <record>
+    <leader>00000nam  2200349 a 4500</leader>
+      <controlfield tag='001'>b1013612</controlfield>
+      <controlfield tag='003'>NcU</controlfield>
+      <controlfield tag='005'>20120217151625.0</controlfield>
+      <controlfield tag='008'>700217s1969    dcuab    b   f000 0 eng  nam a </controlfield>
+      <datafield ind1=' ' ind2=' ' tag='010'>
+        <subfield code='a'>73603193</subfield>
+      </datafield>
+      <datafield ind1='7' ind2=' ' tag='016'>
+        <subfield code='a'>hsl000761922</subfield>
+        <subfield code='2'>gpo</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>DLC</subfield>
+        <subfield code='c'>DLC</subfield>
+        <subfield code='d'>OCLCQ</subfield>
+        <subfield code='d'>OCLCG</subfield>
+        <subfield code='d'>CLU</subfield>
+        <subfield code='d'>CNTRU</subfield>
+        <subfield code='d'>OLA</subfield>
+        <subfield code='d'>GPO</subfield>
+        <subfield code='d'>MvI</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='043'>
+        <subfield code='a'>ln-----</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='074'>
+        <subfield code='a'>0910-D</subfield>
+      </datafield>
+      <datafield ind1='0' ind2=' ' tag='086'>
+        <subfield code='a'>SI 1.27:15</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='100'>
+        <subfield code='a'>Young, Richard E.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='2' tag='245'>
+        <subfield code='a'>A monograph of the Cephalopoda of the North Atlantic :</subfield>
+        <subfield code='b'>the family Joubiniteuthidae /</subfield>
+        <subfield code='c'>Richard E. Young and Clyde F.E. Roper.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='260'>
+        <subfield code='a'>Washington :</subfield>
+        <subfield code='b'>Smithsonian Institution Press :</subfield>
+        <subfield code='b'>For sale by the Supt. of Docs., U.S. G.P.O.,</subfield>
+        <subfield code='c'>1969.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>10 p. :</subfield>
+        <subfield code='b'>ill., map ;</subfield>
+        <subfield code='c'>27 cm.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='490'>
+        <subfield code='a'>Smithsonian contributions to zoology ;</subfield>
+        <subfield code='v'>no. 15</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>&quot;Contribution No. 1025 from the Institute of Marine Sciences, University of Miami, and Paper No. 63 from the Dana Oceanographical Collections&quot;--T.p. verso.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='504'>
+        <subfield code='a'>Includes bibliographical references (p. 10).</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Joubiniteuthidae.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Cephalopoda</subfield>
+        <subfield code='z'>North Atlantic Ocean.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Roper, Clyde F. E.,</subfield>
+        <subfield code='d'>1937-</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>Smithsonian Institution.</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='8' tag='776'>
+        <subfield code='i'>Online version:</subfield>
+        <subfield code='a'>Young, Richard E.</subfield>
+        <subfield code='t'>monograph of the Cephalopoda of the North Atlantic</subfield>
+        <subfield code='w'>(OCoLC)437972132</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='830'>
+        <subfield code='a'>Smithsonian contributions to zoology ;</subfield>
+        <subfield code='v'>no. 15.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='955'>
+        <subfield code='b'>10002853351</subfield>
+        <subfield code='v'>1</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='035'>
+        <subfield code='a'>(OCoLC)56587</subfield>
+      </datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200265   4500</leader>
+      <controlfield tag='001'>b1000020</controlfield>
+      <controlfield tag='003'>NcU</controlfield>
+      <controlfield tag='005'>19850718000000.0</controlfield>
+      <controlfield tag='008'>850718s1969    nyua     b    001 0 engx cam   </controlfield>
+      <datafield ind1=' ' ind2=' ' tag='010'>
+        <subfield code='a'>67010310 //r83</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>DLC</subfield>
+        <subfield code='c'>DLC</subfield>
+        <subfield code='d'>NOC</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='041'>
+        <subfield code='a'>engrus</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='082'>
+        <subfield code='a'>595.7/01/8</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='100'>
+        <subfield code='a'>Mazokhin-Porshni͡akov, G. A.</subfield>
+        <subfield code='q'>(Georgiĭ Aleksandrovich)</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='0' tag='240'>
+        <subfield code='a'>Zrenie nasekomykh.</subfield>
+        <subfield code='l'>English</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='0' tag='245'>
+        <subfield code='a'>Insect vision</subfield>
+        <subfield code='c'>[by] Georgii A. Mazokhin-Porshnyakov. Translated from Russian by Roberto and Liliana Masironi. Translation editor: Timothy H. Goldsmith.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='260'>
+        <subfield code='a'>New York,</subfield>
+        <subfield code='b'>Plenum Press,</subfield>
+        <subfield code='c'>1969.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>xiv, 306 p.</subfield>
+        <subfield code='b'>illus.</subfield>
+        <subfield code='c'>24 cm.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>Translation of Zrenie nasekomykh (romanized form)</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='504'>
+        <subfield code='a'>Bibliography: p. 279-301.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Vision.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Insects</subfield>
+        <subfield code='x'>Physiology.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='955'>
+        <subfield code='b'>00008813661</subfield>
+        <subfield code='v'>2</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='035'>
+        <subfield code='a'>(OCoLC)160</subfield>
+      </datafield>
+  </record>
+  <record>
+    <leader>00000cas a2200745 a 4500</leader>
+      <controlfield tag='001'>b1341446</controlfield>
+      <controlfield tag='003'>NcU</controlfield>
+      <controlfield tag='005'>19930129113423.0</controlfield>
+      <controlfield tag='008'>751230d19571989un mr p       0    0ukr dcas a </controlfield>
+      <datafield ind1=' ' ind2=' ' tag='010'>
+        <subfield code='a'>62026570 //r91</subfield>
+        <subfield code='z'>sn 90022154</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='022'>
+        <subfield code='a'>0131-0194</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>NIC</subfield>
+        <subfield code='c'>NIC</subfield>
+        <subfield code='d'>InU</subfield>
+        <subfield code='d'>MnMULS</subfield>
+        <subfield code='d'>AIP</subfield>
+        <subfield code='d'>OCoLC</subfield>
+        <subfield code='d'>m/c</subfield>
+        <subfield code='d'>MH</subfield>
+        <subfield code='d'>ICRL</subfield>
+        <subfield code='d'>InU</subfield>
+        <subfield code='d'>WaU</subfield>
+        <subfield code='d'>DLC</subfield>
+        <subfield code='d'>NST</subfield>
+      </datafield>
+      <datafield ind1='0' ind2=' ' tag='041'>
+        <subfield code='a'>ukrrus</subfield>
+        <subfield code='f'>eng</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='042'>
+        <subfield code='a'>lcd</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='043'>
+        <subfield code='a'>e-ur-un</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='0' tag='050'>
+        <subfield code='a'>PG3900</subfield>
+        <subfield code='b'>.R3</subfield>
+      </datafield>
+      <datafield ind1='0' ind2=' ' tag='130'>
+        <subfield code='a'>Radi͡ansʹke literaturoznavstvo (Kiev, Ukraine : 1957)</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='0' tag='245'>
+        <subfield code='a'>Rad︠i︡ansʹke literaturoznavstvo</subfield>
+        <subfield code='h'>[serial] /</subfield>
+        <subfield code='c'>orhan Instytutu literatury im. T.H. Shevchenka AN URSR ta Spilky pysʹmennykiv Ukraïny.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='260'>
+        <subfield code='a'>[Kyïv] :</subfield>
+        <subfield code='b'>Vyd-vo Akademiï nauk Ukraïnsʹkoï RSR,</subfield>
+        <subfield code='c'>1957-1989.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>33 v. :</subfield>
+        <subfield code='b'>ill. ;</subfield>
+        <subfield code='c'>26 cm.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='310'>
+        <subfield code='a'>Monthly,</subfield>
+        <subfield code='b'>1965-1989</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='321'>
+        <subfield code='a'>Bimonthly,</subfield>
+        <subfield code='b'>1957-1964</subfield>
+      </datafield>
+      <datafield ind1='0' ind2=' ' tag='362'>
+        <subfield code='a'>1957, 1 (sich.-l︠i︡ut. 1957)-1989, 12 (hrud. 1989).</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>Publisher: Vyd-vo &quot;Nauk. dumka,&quot; 1964, no. 2-1989.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='510'>
+        <subfield code='a'>MLA international bibliography of books and articles on the modern languages and literatures (Complete edition)</subfield>
+        <subfield code='x'>0024-8215</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='515'>
+        <subfield code='a'>Issues for 1961-1973 carry also year of publication designation: R. vid.: 5.-17.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='515'>
+        <subfield code='a'>Contents p. of issues for May 1973-1989 carries also continuous numbering: 149-348.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='546'>
+        <subfield code='a'>Chiefly in Ukrainian with some in Russian; table of contents also in English, &lt;1959;-1964; table of contents also in Russian, 1987-1989.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Ukrainian literature</subfield>
+        <subfield code='x'>History and criticism</subfield>
+        <subfield code='v'>Periodicals.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>Instytut literatury im. T.H. Shevchenka.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>Spilka pysʹmennykiv Ukraïny.</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='0' tag='780'>
+        <subfield code='t'>Rad︠i︡ansʹke literaturoznavstvo (Kiev, Ukraine : 1938)</subfield>
+        <subfield code='w'>(DLC)sn 90017324</subfield>
+        <subfield code='w'>(OCoLC)5180486</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='0' tag='785'>
+        <subfield code='t'>Slovo i chas</subfield>
+        <subfield code='x'>0236-1477</subfield>
+        <subfield code='w'>(DLC)   91642112</subfield>
+        <subfield code='w'>(OCoLC)21493717</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='850'>
+        <subfield code='a'>CoU</subfield>
+        <subfield code='a'>DLC</subfield>
+        <subfield code='a'>ICRL</subfield>
+        <subfield code='a'>InU</subfield>
+        <subfield code='a'>MH</subfield>
+        <subfield code='a'>NSyU</subfield>
+        <subfield code='a'>PU</subfield>
+        <subfield code='a'>WaU</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='955'>
+        <subfield code='b'>00031762708</subfield>
+        <subfield code='v'>3</subfield>
+      </datafield>
+  </record>
+  <record>
+    <leader>00000nam  2200289 a 45 0</leader>
+      <controlfield tag='001'>b3892679</controlfield>
+      <controlfield tag='003'>NcU</controlfield>
+      <controlfield tag='005'>19961112112658.0</controlfield>
+      <controlfield tag='008'>700901s1786    enk     a     000 0 eng dnam a </controlfield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>Uk-ES</subfield>
+        <subfield code='c'>Uk-ES</subfield>
+        <subfield code='d'>CStRLIN</subfield>
+        <subfield code='d'>ResP</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='100'>
+        <subfield code='a'>Churchill, Charles,</subfield>
+        <subfield code='d'>1731-1764.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='0' tag='245'>
+        <subfield code='a'>Night,</subfield>
+        <subfield code='h'>[microfilm]</subfield>
+        <subfield code='b'>a satire, on the manners of the rich &amp; great, by the late Charles Churchill: with notes by the shaver.).</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='260'>
+        <subfield code='a'>London :</subfield>
+        <subfield code='b'>printed for John Fielding,</subfield>
+        <subfield code='c'>[1786]</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>[2],27,[1]p. ;</subfield>
+        <subfield code='c'>12.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>The shaver = J. Macgowen.- The preface is dated: &apos;London, 1786&apos;.- The titlepage is engraved.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='533'>
+        <subfield code='a'>Microfilm.</subfield>
+        <subfield code='b'>Woodbridge, CT</subfield>
+        <subfield code='c'>Research Publications, Inc.,</subfield>
+        <subfield code='d'>1985.</subfield>
+        <subfield code='e'>1 reel ; 35mm.</subfield>
+        <subfield code='f'>(The Eighteenth Century ; reel 1344, no.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='830'>
+        <subfield code='a'>Eighteenth century ;</subfield>
+        <subfield code='v'>reel 1344, no. 07</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='955'>
+        <subfield code='b'>HBDK-2708-00001</subfield>
+        <subfield code='v'>4</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='035'>
+        <subfield code='a'>(OCoLC)98214</subfield>
+      </datafield>
+  </record>
+  <record>
+    <leader>00000cam  2200229Ia 4500</leader>
+      <controlfield tag='001'>b2255297</controlfield>
+      <controlfield tag='003'>NcU</controlfield>
+      <controlfield tag='005'>19920903000000.0</controlfield>
+      <controlfield tag='008'>920903s1986    at a     b    100 0 eng dcamIa </controlfield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>AZS</subfield>
+        <subfield code='c'>AZS</subfield>
+        <subfield code='d'>NOC</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='110'>
+        <subfield code='a'>International Society for Music Education.</subfield>
+        <subfield code='b'>International Conference</subfield>
+        <subfield code='n'>(17th :</subfield>
+        <subfield code='d'>1986 :</subfield>
+        <subfield code='c'>Innsbruck, Austria)</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='0' tag='245'>
+        <subfield code='a'>New perspectives in music, new tasks for music education :</subfield>
+        <subfield code='b'>papers from the XVIIth International ISME Conference, Innsbruck, Austria, 1986 /</subfield>
+        <subfield code='c'>Jack Dobbs, editor.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='260'>
+        <subfield code='a'>[Nedlands, Western Australia] :</subfield>
+        <subfield code='b'>International Society for Music Education in conjunction with the Dept. of Music, University of Western Australia,</subfield>
+        <subfield code='c'>[1986?]</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>204 p. :</subfield>
+        <subfield code='b'>ill. ;</subfield>
+        <subfield code='c'>22 cm.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='490'>
+        <subfield code='a'>ISME yearbook,</subfield>
+        <subfield code='x'>0172-0597 ;</subfield>
+        <subfield code='v'>v. 13</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='504'>
+        <subfield code='a'>Includes bibliographical references.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Music</subfield>
+        <subfield code='x'>Instruction and study</subfield>
+        <subfield code='v'>Congresses.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='680'>
+        <subfield code='a'>Mus: cl sep /</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Dobbs, Jack P. B.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='830'>
+        <subfield code='a'>ISME yearbook ;</subfield>
+        <subfield code='v'>v. 13.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='955'>
+        <subfield code='b'>00007355658</subfield>
+        <subfield code='v'>5</subfield>
+      </datafield>
+  </record>
+  <record>
+    <leader>00000nam  22002535i 4500</leader>
+      <controlfield tag='001'>b4741749</controlfield>
+      <controlfield tag='003'>NcU</controlfield>
+      <controlfield tag='005'>20050705051311.1</controlfield>
+      <controlfield tag='008'>050705s2002    sw            10| 0 eng|dnam5i </controlfield>
+      <datafield ind1=' ' ind2=' ' tag='020'>
+        <subfield code='c'>EUR27.00</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>GyWOH</subfield>
+        <subfield code='b'>eng</subfield>
+        <subfield code='c'>GyWOH</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='072'>
+        <subfield code='a'>HQ</subfield>
+        <subfield code='2'>lcco</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='4' tag='245'>
+        <subfield code='a'>The intelligentsias of Russia and Poland :</subfield>
+        <subfield code='b'>the intelligentsia as creators of social values in Russia and Poland during the nineteenth and twentieth centuries ; abstracts from the conference held at Lund University, August 22-25, 2002.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='260'>
+        <subfield code='a'>Lund :</subfield>
+        <subfield code='b'>Lund University,</subfield>
+        <subfield code='c'>2002.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>104 p. ;</subfield>
+        <subfield code='c'>22 cm.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='490'>
+        <subfield code='a'>Slavica Lundensia supplementa</subfield>
+        <subfield code='x'>1651-3711 ;</subfield>
+        <subfield code='v'>1</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>Internat. conference proceedings.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>47 English, 6 Russian contributions.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='830'>
+        <subfield code='a'>Slavica Lundensia supplementa ;</subfield>
+        <subfield code='v'>1.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='955'>
+        <subfield code='b'>00024941431</subfield>
+        <subfield code='v'>6</subfield>
+      </datafield>
+  </record>
+</collection>
